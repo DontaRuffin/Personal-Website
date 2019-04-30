@@ -1,0 +1,50 @@
+.Header{
+  text-align: right;
+  font-size: 25px;
+}
+
+.title{
+  font-size: 20px;
+}
+
+.logo img{
+  flex-direction: row: left;
+}
+
+
+/*.logo{
+  display: flex;
+  align-content: flex-start;
+
+}*/
+
+hr {
+margin-left: auto;
+margin-right: auto;
+height: 5px;
+background-color: Black;
+opcaity: 0.5;
+}
+
+p{
+  text-align:right;
+}
+
+.Container{
+  display: Flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: space-between;
+  align-content: center;
+  height: auto;
+  width: auto;
+}
+
+.p1{
+  padding-bottom: 1em;
+}
+
+.p2{
+  padding-bottom: 1em;
+}
